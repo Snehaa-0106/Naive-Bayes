@@ -1,0 +1,9 @@
+
+BEFORE FILTERING THE STOP WORDS 
+The accuracy of the TRAIN data is 0.9374
+The accuracy of the TEST data is 0.8309
+
+AFTER FILTERING THE STOP WORDS 
+The accuracy of the TRAIN data after filtering out the stop words is 0.9503
+The accuracy of the TEST data after filtering out the stop words is 0.9019
+
